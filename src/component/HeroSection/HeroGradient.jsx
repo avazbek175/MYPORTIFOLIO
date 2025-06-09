@@ -11,4 +11,4 @@ const HeroGradient = () => {
   )
 }
 
-export default HeroGradient;
+export default HeroGradient; 
