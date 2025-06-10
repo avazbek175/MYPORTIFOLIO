@@ -14,3 +14,9 @@ If you are developing a production application, we recommend using TypeScript wi
 #Uzbek ==> bu mening loyiha ishim bu yerda men React bilan vite va tailwind css bilan ishlaganman hozirda bishqa saydlar ustida ham ishlayabman
 
 #English langules ==> This is my project work, where I worked with React, Vite and Tailwind CSS, and I'm currently working on other sites.!
+
+
+
+![image](https://github.com/user-attachments/assets/b7db24b8-a827-43c6-8fbe-a274dae2fb41)
+
+>>>>>>>>>> bu sayt dizayni haqida <<<<<<<<<<<
