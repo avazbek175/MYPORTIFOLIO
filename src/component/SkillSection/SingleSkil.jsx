@@ -1,7 +1,14 @@
 import React from 'react'
 
-export const SingleSkil = () => {
+
+const SingleSkil = ({imgSvg, text}) => {
   return (
-    <div></div>
+    <div>
+      <div>
+        <div>{imgSvg}</div>
+        <p>{text}</p>
+      </div>
+    </div>
   )
 }
+export default SingleSkil
