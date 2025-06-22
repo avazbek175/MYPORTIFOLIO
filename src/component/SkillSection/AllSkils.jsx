@@ -51,7 +51,7 @@ export const AllSkils = () => {
     <div>
       <div className='flex items-center justify-center gap-4 relative max-w-[1200px] mx-auto '>
         {AllSkilIcon.map ((item, index) => {
-          return(<SingleSkil key={index} text={item.text}  imgSvg={<item.icon/>}/>)
+          return(<SingleSkil key={index} text={item.skill}  imgSvg={<item.icon/>}/>)
         })}
       </div>
     </div>
