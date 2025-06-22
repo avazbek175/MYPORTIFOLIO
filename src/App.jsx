@@ -5,6 +5,7 @@ import HeroMain from "./component/heroSection/heroMain"
 import SubHeroSection from "./component/HeroSection/SubHeroSection"
 import NavbarMain from "./component/Navbar/NavbarMain"
 import { SkilMain } from "./component/SkillSection/SkilMain"
+import { SubSkills } from "./component/SkillSection/SubSkills"
 
 function App() {
 
@@ -15,8 +16,9 @@ function App() {
       <HeroGradient/>
       <SubHeroSection/>
       <AboutMeMain/>
-      <HelperSection/>
       <SkilMain/>
+      <SubSkills/>
+      <HelperSection/>
     </div>
   )
 }
