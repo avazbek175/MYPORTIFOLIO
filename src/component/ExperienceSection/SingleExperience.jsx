@@ -1,7 +1,12 @@
 import React from 'react'
 
-export const SingleExperience = () => {
+export const SingleExperience = ({experience}) => {
   return (
-    <div>SingleExperience</div>
+    <div>
+      <p>{experience.job} </p>
+      <p>{experience.company} </p>
+      <p>{experience.date}</p>
+      <ul></ul>
+    </div>
   )
 }
