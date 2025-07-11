@@ -37,7 +37,7 @@ const experience = [
 ]
 export const AllExperience = () => {
   return (
-    <div>
+    <div className='flex md:flex-row sm:flex-col items-center justify-between'>
       {experience.map((experience, index) =>{
         return <>
         <SingleExperience key={index} experience={experience}/>;
